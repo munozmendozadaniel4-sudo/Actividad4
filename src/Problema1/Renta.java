@@ -1,4 +1,4 @@
 package Problema1;
 
-public class Lote {
+public class Renta {
 }

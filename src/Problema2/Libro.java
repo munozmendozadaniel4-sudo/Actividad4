@@ -1,4 +1,4 @@
 package Problema2;
 
-public class Fruta {
+public class Libro {
 }
