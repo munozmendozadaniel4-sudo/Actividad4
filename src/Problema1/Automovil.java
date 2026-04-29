@@ -1,7 +1,5 @@
 package Problema1;
 
-public class Automovil {
-
 public class Automovil extends Vehiculo {
     private int numeroPuertas;
     private String transmision;
